@@ -1,4 +1,4 @@
-# BD228
+# BD228 лабик 1
 Выберите из таблицы orders все заказы
 
 SELECT * FROM orders 
